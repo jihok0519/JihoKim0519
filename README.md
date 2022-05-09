@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, It's Enoch! 👋
+
+I am a full stack developer interested in innovating and redesigning the next generation of video game development. I am currently learning Javascript but will soon be adding Django and Python to my arsenal of languages. You can catch me playing video games, watching basketball, or listening to music in my spare time.
+
+
 
 <!--
 **EnochKim0519/EnochKim0519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
