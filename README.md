@@ -1,6 +1,6 @@
 ### Hi there, It's Enoch! 👋
 
-I am a full stack developer interested in innovating and redesigning the next generation of video game development. I am currently learning Javascript but will soon be adding Django and Python to my arsenal of languages. You can catch me playing video games, watching basketball, or listening to music in my spare time.
+I am a full stack developer interested in innovating and redesigning the next generation of video game development. I am currently learning Javascript but will soon be adding Django and Python to my arsenal of languages. You can catch me playing video games, watching/playing basketball, or listening to music in my spare time.
 
 
 
