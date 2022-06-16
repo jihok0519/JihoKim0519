@@ -1,7 +1,5 @@
 ### Hi there, It's Enoch! 👋
 
-![](https://github.com/JihoKim0519/https://giphy.com/gifs/nba-6oxRNXVkdzIelC5M6n)
-
 I am a full stack developer interested in innovating and redesigning the next generation of video game development. I am currently learning Javascript but will soon be adding Django and Python to my arsenal of languages. You can catch me playing video games, watching/playing basketball, or listening to music in my spare time.
 
 🌱 I’m currently learning React.js and having a lot of fun with all the new concepts being thrown at me. I can't wait to utilize everything I've learned in my personal projects.
